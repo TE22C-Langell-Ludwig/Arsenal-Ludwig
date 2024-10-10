@@ -1,0 +1,15 @@
+C:\Users\ludwig.langell\Documents\Skolsaker\Programmering\År 3 prog 2\Arsenal Ludwig\Arsenal-Ludwig\bin\Debug\net8.0\Arsenal-Ludwig.exe
+C:\Users\ludwig.langell\Documents\Skolsaker\Programmering\År 3 prog 2\Arsenal Ludwig\Arsenal-Ludwig\bin\Debug\net8.0\Arsenal-Ludwig.deps.json
+C:\Users\ludwig.langell\Documents\Skolsaker\Programmering\År 3 prog 2\Arsenal Ludwig\Arsenal-Ludwig\bin\Debug\net8.0\Arsenal-Ludwig.runtimeconfig.json
+C:\Users\ludwig.langell\Documents\Skolsaker\Programmering\År 3 prog 2\Arsenal Ludwig\Arsenal-Ludwig\bin\Debug\net8.0\Arsenal-Ludwig.dll
+C:\Users\ludwig.langell\Documents\Skolsaker\Programmering\År 3 prog 2\Arsenal Ludwig\Arsenal-Ludwig\bin\Debug\net8.0\Arsenal-Ludwig.pdb
+C:\Users\ludwig.langell\Documents\Skolsaker\Programmering\År 3 prog 2\Arsenal Ludwig\Arsenal-Ludwig\obj\Debug\net8.0\Arsenal-Ludwig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ludwig.langell\Documents\Skolsaker\Programmering\År 3 prog 2\Arsenal Ludwig\Arsenal-Ludwig\obj\Debug\net8.0\Arsenal-Ludwig.AssemblyInfoInputs.cache
+C:\Users\ludwig.langell\Documents\Skolsaker\Programmering\År 3 prog 2\Arsenal Ludwig\Arsenal-Ludwig\obj\Debug\net8.0\Arsenal-Ludwig.AssemblyInfo.cs
+C:\Users\ludwig.langell\Documents\Skolsaker\Programmering\År 3 prog 2\Arsenal Ludwig\Arsenal-Ludwig\obj\Debug\net8.0\Arsenal-Ludwig.csproj.CoreCompileInputs.cache
+C:\Users\ludwig.langell\Documents\Skolsaker\Programmering\År 3 prog 2\Arsenal Ludwig\Arsenal-Ludwig\obj\Debug\net8.0\Arsenal-Ludwig.dll
+C:\Users\ludwig.langell\Documents\Skolsaker\Programmering\År 3 prog 2\Arsenal Ludwig\Arsenal-Ludwig\obj\Debug\net8.0\refint\Arsenal-Ludwig.dll
+C:\Users\ludwig.langell\Documents\Skolsaker\Programmering\År 3 prog 2\Arsenal Ludwig\Arsenal-Ludwig\obj\Debug\net8.0\Arsenal-Ludwig.pdb
+C:\Users\ludwig.langell\Documents\Skolsaker\Programmering\År 3 prog 2\Arsenal Ludwig\Arsenal-Ludwig\obj\Debug\net8.0\Arsenal-Ludwig.genruntimeconfig.cache
+C:\Users\ludwig.langell\Documents\Skolsaker\Programmering\År 3 prog 2\Arsenal Ludwig\Arsenal-Ludwig\obj\Debug\net8.0\ref\Arsenal-Ludwig.dll
+C:\Users\ludwig.langell\Documents\Skolsaker\Programmering\År 3 prog 2\Arsenal Ludwig\Arsenal-Ludwig\bin\Debug\net8.0\Weapons.json

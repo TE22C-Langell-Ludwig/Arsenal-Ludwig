@@ -1,0 +1,13 @@
+[
+{
+    "Name": "axe",
+    "DamageMax": 10,
+    "DamageMin": 5
+}
+,
+{
+    "Name": "Mace",
+    "DamageMax": 12,
+    "DamageMin": 3
+}
+]
